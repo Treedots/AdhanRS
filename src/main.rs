@@ -21,5 +21,5 @@ impl PrayerTimes {
 fn main() {
     println!("Hello, world!");
     println!("{}",normalize_scale(100.0, 360.0)); 
-    println!("{}",prayer_string(Prayer::Magrib));
+    println!("{}",Prayer::Magrib.as_string());
 }
