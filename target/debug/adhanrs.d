@@ -1,0 +1,1 @@
+C:\Users\demic\Documents\Projects\Rust\adhanrs\target\debug\adhanrs.exe: C:\Users\demic\Documents\Projects\Rust\adhanrs\src\MathUtils.rs C:\Users\demic\Documents\Projects\Rust\adhanrs\src\main.rs C:\Users\demic\Documents\Projects\Rust\adhanrs\src\prayer.rs
