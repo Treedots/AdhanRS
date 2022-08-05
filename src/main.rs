@@ -3,7 +3,7 @@
 // 2.Astronomicals      -> 5,6,9,15,20                      |
 // 3.CalculationMethods -> 4,14                             |
 // 4.CalculationParam.. -> 3,7,8,10,14,15,20                |
-// 5.Coordinates        ->                                  |
+// 5.Coordinates        ->                                  |x
 // 6.DateUtils          -> 2,14,20                          |
 // 7.HightLatitudeRule  -> 5                                |
 // 8.Madhab             -> 20                               |
